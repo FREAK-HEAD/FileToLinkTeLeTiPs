@@ -4,7 +4,8 @@
     "website": "https://FileToLinkTeLeTiPs/",
     "repository": "https://github.com/Thakshaka/FileToLinkTeLeTiPs",
     "env": {
-          "TG_BOT_TOKEN": {"description": "Your Bot's Token From BotFather Bot","required": true}
+          "TG_BOT_TOKEN": {"description": "Your Bot's Token From BotFather Bot",
+          "required": true}
     },
     "buildpacks": [
       {"url": "heroku/python"}
